@@ -1,5 +1,5 @@
 ---
-permalink: /2.5-Layer-Base-Model/access_data/
+permalink: /access_data/
 title: "`access_data`"
 author_profile: false
 #redirect_from:
