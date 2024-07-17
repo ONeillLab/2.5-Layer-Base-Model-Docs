@@ -1,5 +1,5 @@
 ---
-permalink: /2.5-Layer-Base-Model/
+permalink: /
 title: "2.5-Layer-Base-Model"
 author_profile: false
 #redirect_from:
