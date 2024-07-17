@@ -1,5 +1,5 @@
 ---
-permalink: /2.5-Layer-Base-Model/graphing/
+permalink: /graphing/
 title: "`graphing`"
 author_profile: false
 #redirect_from:
