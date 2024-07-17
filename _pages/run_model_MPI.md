@@ -1,5 +1,5 @@
 ---
-permalink: /2.5-Layer-Base-Model/run_model_MPI/
+permalink: /run_model_MPI/
 title: "`run_model_MPI`"
 author_profile: false
 #redirect_from:
