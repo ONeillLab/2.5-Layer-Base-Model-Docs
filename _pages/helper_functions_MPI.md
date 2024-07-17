@@ -1,5 +1,5 @@
 ---
-permalink: /2.5-Layer-Base-Model/helper_functions_MPI/
+permalink: /helper_functions_MPI/
 title: "`helper_functions_MPI`"
 author_profile: false
 #redirect_from:
